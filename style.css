@@ -1,0 +1,51 @@
+.box
+{
+    display: block;
+    align-items: center;
+    border:  4px  #F0A30A inset;
+    border-radius: 10px;
+    padding: 50px;
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: #FCFBF4;
+    margin-left: auto;
+    margin-right: auto;
+}
+.login
+{
+    font-family: Lucida Handwriting;
+    font-size: 30px;
+    text-align: center;
+    color: blue;
+}
+.text
+{*
+    display: block;
+    padding: 5px;
+    border: 2px  white rigid;
+    border-radius: 3px;
+}
+.button {
+padding: 10px 20px;
+font-size: 15px;
+text-align: center;
+cursor: pointer;
+outline: none;
+color: white;
+background-image:  linear-gradient(to right,#E81DFF , #EF6492,#A4419B);
+border: 1px solid #A0522D ;
+border-radius: 6px;
+}
+.button:hover {background-color: #ECD56B;}
+.button:active {
+background-color: #F2CE5D;
+box-shadow: 0 5px #666;
+transform: translateY(4px);
+}
+.input
+{
+  border-radius :5px;
+  display: block;
+}
