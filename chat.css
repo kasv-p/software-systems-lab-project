@@ -1,0 +1,25 @@
+.vertical-menu-bar
+{
+  height: 100%;
+  width: 30%;
+  position: fixed;
+  background-color: #008B8B;
+  padding-right: 30px;
+  color: #551a8b;
+
+}
+.vertical-menu-bar ul
+{
+  list-style-type: none;
+  text-align: center;
+  padding: 50px;
+}
+.vertical-menu-bar li a
+{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    text-align: left;
+}
