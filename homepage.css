@@ -1,0 +1,45 @@
+body
+{
+  font-family: Arial;
+}
+img
+{
+  height: 725px;
+  width:650px;
+}
+.menu-bar
+{
+  /* background-color: #cb65d7; */
+  position: fixed;
+  align : right;
+  text-align: center;
+  width: 800px;
+  overflow: hidden;
+}
+.menu-bar ul
+{
+  display: inline-flex;
+  list-style: none;
+  /* color: #fff; */
+}
+.menu-bar ul li{
+  width: 150px;
+  margin: 1px;
+  padding:3.5px;
+}
+.menu-bar ul li a{
+  color: black;
+  text-decoration: none;
+}
+.menu-bar .fa{
+  margin-right: 5px;
+}
+.main
+{
+    margin-left: 650px;
+}
+.welcome
+{
+  margin-left: 650px;
+  padding: 100px;
+}

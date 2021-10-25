@@ -1,0 +1,23 @@
+if not exists for table
+forgot password
+confirm password
+alert not working "account created successfully"
+not checking password and Email in login page
+Checking whether already have account or not - sign up page
+
+😭Home page
+😭profile page
+😭adding friends and deleting friends
+😭User can register into the application with their name, email id and password.
+😭Registered user may be able to login into the application
+😭There should be options to get the basic information like date of birth, address, phone number, education,
+   upload his/her picture, professional information, hobby
+😭After login, user should be able to see their profile information.
+😭One should be able to add new friends
+😭One should be able to see the basic profile information of their friend
+😭One should be able to send messages to their friends
+😭logo and name
+😭photo and name from database in home page
+😭Unique email id
+😭taking time after showing alert message in password check
+😭checking whitespaces in password
